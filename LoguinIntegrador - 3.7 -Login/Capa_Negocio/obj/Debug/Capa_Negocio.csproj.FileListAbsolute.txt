@@ -1,0 +1,144 @@
+C:\Users\usuario\Desktop\login_7\LoguinIntegrador\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\login_7\LoguinIntegrador\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\login_7\LoguinIntegrador\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Desktop\login_7\LoguinIntegrador\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Desktop\login_7\LoguinIntegrador\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\login_7\LoguinIntegrador\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\login_7\LoguinIntegrador\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\login_7\LoguinIntegrador\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\login_7\LoguinIntegrador\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.7\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.7\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.7\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.7\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.7\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.7\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.7\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.7\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.7\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.7 .1\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.7 .1\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.7 .1\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.7 .1\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.7 .1\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.7 .1\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.7 .1\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.7 .1\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.7 .1\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.8.coxSimple\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.8.coxSimple\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.8.coxSimple\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.8.coxSimple\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.8.coxSimple\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.8.coxSimple\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.8.coxSimple\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.8.coxSimple\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 1.8.coxSimple\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.0\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.0\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.0\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.0\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.0\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.0\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.0\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.0\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.0\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.1\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.1\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.1\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.1\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.1\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.1\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.1\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.1\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.1\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.1 - Logeo_nueva_tabla\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.1 - Logeo_nueva_tabla\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.1 - Logeo_nueva_tabla\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.1 - Logeo_nueva_tabla\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.1 - Logeo_nueva_tabla\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.1 - Logeo_nueva_tabla\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.1 - Logeo_nueva_tabla\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.1 - Logeo_nueva_tabla\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.1 - Logeo_nueva_tabla\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.4\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.4\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.4\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.4\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.4\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.4\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.4\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.4\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.4\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.5\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.5\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.5\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.5\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.5\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.5\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.5\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.5\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 2.5\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.1\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.1\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.1\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.1\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.1\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.1\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.1\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.1\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.1\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.4\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.4\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.4\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.4\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.4\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.4\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.4\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.4\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.4\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.6\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.6\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.6\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.6\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.6\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.6\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.6\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.6\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.6\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.7\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.7\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.7\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.7\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.7\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.7\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.7\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.7\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.7\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.7 -Login\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.7 -Login\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.7 -Login\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.7 -Login\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.7 -Login\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.7 -Login\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.7 -Login\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.7 -Login\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\UsuarioLogin\LoguinIntegrador - 3.7 -Login\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\ultimo\LoguinIntegrador - 3.7 -Login\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\ultimo\LoguinIntegrador - 3.7 -Login\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\usuario\Desktop\ultimo\LoguinIntegrador - 3.7 -Login\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\usuario\Desktop\ultimo\LoguinIntegrador - 3.7 -Login\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\usuario\Desktop\ultimo\LoguinIntegrador - 3.7 -Login\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\ultimo\LoguinIntegrador - 3.7 -Login\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ultimo\LoguinIntegrador - 3.7 -Login\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\usuario\Desktop\ultimo\LoguinIntegrador - 3.7 -Login\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\usuario\Desktop\ultimo\LoguinIntegrador - 3.7 -Login\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+C:\Users\cecilia\Downloads\LoguinIntegrador - 3.7 -Login\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\cecilia\Downloads\LoguinIntegrador - 3.7 -Login\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\cecilia\Downloads\LoguinIntegrador - 3.7 -Login\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\cecilia\Downloads\LoguinIntegrador - 3.7 -Login\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\cecilia\Downloads\LoguinIntegrador - 3.7 -Login\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\cecilia\Downloads\LoguinIntegrador - 3.7 -Login\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\cecilia\Downloads\LoguinIntegrador - 3.7 -Login\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\cecilia\Downloads\LoguinIntegrador - 3.7 -Login\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\cecilia\Downloads\LoguinIntegrador - 3.7 -Login\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
